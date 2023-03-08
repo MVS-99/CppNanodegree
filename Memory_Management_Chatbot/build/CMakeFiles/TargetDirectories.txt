@@ -1,0 +1,3 @@
+/home/spmdvrs/Projects/Udacity/CppND/Memory_Management_Chatbot/build/CMakeFiles/membot.dir
+/home/spmdvrs/Projects/Udacity/CppND/Memory_Management_Chatbot/build/CMakeFiles/edit_cache.dir
+/home/spmdvrs/Projects/Udacity/CppND/Memory_Management_Chatbot/build/CMakeFiles/rebuild_cache.dir
